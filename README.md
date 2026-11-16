@@ -74,9 +74,6 @@ Aujourd'hui, j'applique cette même approche méthodique au code :
 
 ---
 
-<p align="center">
-  <i>Un système propre est un système qui dure.</i>
-</p>
 
 <!-- FOOTER -->
 <p align="center">
